@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexEditor", "RegexEditor\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "utilidades", "utilidades", "{96C868EA-C459-48F2-B5B6-F38C9E0103E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioPatentes", "EjercicioPatentes\EjercicioPatentes.csproj", "{50CDA480-4D4E-49B7-8E4F-7D1CCF885A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2-Scraping", "Ejercicio2-Scraping\Ejercicio2-Scraping.csproj", "{F332DE16-C3D7-460F-B9E9-0B6A731B3F4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,14 @@ Global
 		{8FDC2FEB-1405-43BF-BF11-655FF8A95F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FDC2FEB-1405-43BF-BF11-655FF8A95F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FDC2FEB-1405-43BF-BF11-655FF8A95F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50CDA480-4D4E-49B7-8E4F-7D1CCF885A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CDA480-4D4E-49B7-8E4F-7D1CCF885A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CDA480-4D4E-49B7-8E4F-7D1CCF885A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CDA480-4D4E-49B7-8E4F-7D1CCF885A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F332DE16-C3D7-460F-B9E9-0B6A731B3F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F332DE16-C3D7-460F-B9E9-0B6A731B3F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F332DE16-C3D7-460F-B9E9-0B6A731B3F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F332DE16-C3D7-460F-B9E9-0B6A731B3F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
